@@ -10,6 +10,7 @@ pillow = "*"
 psycopg2-binary = "*"
 django-rest-knox = "*"
 django-cors-headers = "*"
+django-ckeditor = "*"
 
 [dev-packages]
 
